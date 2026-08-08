@@ -1,0 +1,20 @@
+GENOA GOLF CLUB FULL-STACK DEMO
+
+1) Install MongoDB locally OR use a MongoDB Atlas test database.
+2) Open backend/.env.example and copy it to backend/.env.
+3) In backend:
+   npm install
+   npm run seed
+   npm run dev
+4) In frontend:
+   npm install
+   npm run dev
+5) Visit http://localhost:5173
+6) For API tests, import qa/postman/Genoa_Golf_Club.postman_collection.json into Postman.
+7) For Selenium:
+   cd qa/selenium
+   pip install -r requirements.txt
+   pytest -v
+
+Repository to upload/push:
+https://github.com/aashwani2308-debug/genoa-golf-club-portal

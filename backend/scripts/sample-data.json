@@ -1,0 +1,13 @@
+{
+  "venueEnquiry": {
+    "fullName": "Demo Guest",
+    "email": "demo@example.com",
+    "phone": "555-0100",
+    "eventType": "Wedding",
+    "preferredDate": "2026-10-15",
+    "guestCount": 120,
+    "preferredVenue": "Either/Both",
+    "notes": "Demo data only",
+    "referralSource": "Google"
+  }
+}
